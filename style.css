@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Open+Sans&family=Ubuntu&display=swap');
+
+* {
+    /* font-family: 'Fira Sans', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Ubuntu', sans-serif; */
+}
+
+body {
+    background: #282828;
+    color: #fbf1c7;
+}
+
+a {
+    color: #e60020;
+}
