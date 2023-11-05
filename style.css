@@ -1,4 +1,7 @@
 body {
+    margin: auto;
+    max-width: 100ch;
+    padding: 1ch 1ch 1ch 1ch;
     background: #1a1b26;
     color: #9aa5ce;
     font-family: monospace;
